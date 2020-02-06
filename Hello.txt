@@ -1,6 +1,10 @@
 public class MyFirstApp {
     public static void main(String[] args) {
         System.out.println("Hello World");
+<<<<<<< HEAD
 		System.out.println("String local");
+=======
+        System.out.println("Second string");
+>>>>>>> b0b3ab597d4ae47888f5114a8bc6a4f512866f15
     }
 }
